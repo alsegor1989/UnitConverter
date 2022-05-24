@@ -10,8 +10,8 @@ In the project directory, you can run:
 
 ### `gulp`
 
-Runs the site in the development mode.\
+Runs the site in the development mode.
 
 ### `npm build-prod-js`
 
-Builds the site for production to the `dist` folder.\
+Builds the site for production to the `dist` folder.
