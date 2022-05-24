@@ -4,6 +4,10 @@
 
 Units converter based on https://github.com/nosferatoy/units-converter.
 
+## Demo
+
+Demo available here https://codepen.io/alsegor1989/pen/PoQJOKb.
+
 ## Available Scripts
 
 In the project directory, you can run:
