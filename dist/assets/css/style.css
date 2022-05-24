@@ -1,0 +1,10 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background: rgb(186, 186, 186);
+  color: white;
+}
+
+.fnt-20 {
+  font-size: 20px;
+}
