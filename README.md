@@ -12,6 +12,6 @@ In the project directory, you can run:
 
 Runs the site in the development mode.
 
-### `npm build-prod-js`
+### `gulp build-prod-js`
 
 Builds the site for production to the `dist` folder.
